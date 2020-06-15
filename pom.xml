@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.2.5.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<druid.version>1.0.18</druid.version>
 		<fastjson.version>1.2.6</fastjson.version>
