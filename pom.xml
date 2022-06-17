@@ -9,7 +9,7 @@
 		<spring.version>4.2.5.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<druid.version>1.0.18</druid.version>
-		<fastjson.version>1.2.6</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<mybaitsplus.version>2.0.8</mybaitsplus.version>
 		<mysql.version>5.1.38</mysql.version>
 		<log4j.version>1.2.17</log4j.version>
@@ -226,7 +226,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.6</version>
+			<version>1.2.83</version>
 		</dependency>
 
 		<dependency>
